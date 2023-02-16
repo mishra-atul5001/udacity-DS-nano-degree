@@ -13,6 +13,7 @@ Udacity Nano Degree Resources
   - sklearn -> For Modelling and evaluating Model performance
   - pandas | numpy -> For data loading and Manipulation to make it modelling ready.
   - seaborn | matplotlib -> For vizualization purpose.
+  - fbprophet -> Time Series Modelling
 
 ### Necessary files inside the folder:
   - Ipynb notebook demonstrating the project problem statement and respective approach + solution

@@ -3,8 +3,8 @@ Udacity Nano Degree Resources
 
 # Project 1: Writing a Data Scientist Blog Post
 ### Project Notebook/Blog Link:
-  - XYZ
-  - 
+  - Notebook Link: https://github.com/mishra-atul5001/udacity-DS-nano-degree/blob/main/World%20Energy%20Consumption.ipynb
+  - Blog Link: https://medium.com/@mishra5001/quick-ml-hands-on-time-series-eda-5be93eeda4ae
 
 ### Motivation of the Project:
   - Introductory aproach towards Data Science CRISP-DM Framework in pratical use. This project enlightens towards the technology and how the same could be used to solve a real world problem of Diabetes.

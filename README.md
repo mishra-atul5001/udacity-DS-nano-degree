@@ -22,7 +22,7 @@ Udacity Nano Degree Resources
 
 # Project 2: Creating a Disaster Response Pipeline from Scratch
 ### Project Notebook/Blog Link:
-  - Repo link:
+  - Repo link: https://github.com/mishra-atul5001/udacity-DS-nano-degree/tree/main/Disaster-Response-Pipeline
 
 ### Motivation of the Project:
   - Introductory aproach towards Data Science modelling including Pre-processing and Modelling of a Natural Language Processing problem Statement

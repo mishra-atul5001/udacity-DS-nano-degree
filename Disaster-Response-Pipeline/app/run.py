@@ -55,12 +55,48 @@ def index():
             ],
 
             'layout': {
-                'title': 'Distribution of Message Genres',
+                'title': 'Distribution of Message Genres!',
                 'yaxis': {
                     'title': "Count"
                 },
                 'xaxis': {
                     'title': "Genre"
+                }
+            }
+        },
+        {
+            'data': [
+                Bar(
+                    x=category,
+                    y=category_counts
+                )
+            ],
+
+            'layout': {
+                'title': 'Distribution of Message Categories across!',
+                'yaxis': {
+                    'title': "Count"
+                },
+                'xaxis': {
+                    'title': "Category"
+                }
+            }
+        },
+        {
+            'data': [
+                Bar(
+                    x=categories_names,
+                    y=categories_mean
+                )
+            ],
+
+            'layout': {
+                'title': 'Top 10 Message Categories!',
+                'yaxis': {
+                    'title': "Percentage"
+                },
+                'xaxis': {
+                    'title': "Categories"
                 }
             }
         }

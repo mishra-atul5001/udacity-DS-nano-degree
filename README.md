@@ -19,3 +19,10 @@ Udacity Nano Degree Resources
   - Ipynb notebook demonstrating the project problem statement and respective approach + solution
   - CSV file containing dataset
   - ZIP file containing the dataset CSV.
+
+# Project 2: Creating a Disaster Response Pipeline from Scratch
+### Project Notebook/Blog Link:
+  - Repo link:
+
+### Motivation of the Project:
+  - Introductory aproach towards Data Science modelling including Pre-processing and Modelling of a Natural Language Processing problem Statement

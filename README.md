@@ -26,3 +26,11 @@ Udacity Nano Degree Resources
 
 ### Motivation of the Project:
   - Introductory aproach towards Data Science modelling including Pre-processing and Modelling of a Natural Language Processing problem Statement
+
+
+# Project 4: Tweet Sentiment Extraction
+### Project Notebook/Blog Link:
+  - Repo link: https://github.com/mishra-atul5001/udacity-DS-nano-degree/tree/main/Capstone%20Project
+
+### Motivation of the Project:
+  - Finding words or phrases influencing SENTIMENTs. Textual data with NER entities and Spacy modelling 

@@ -44,7 +44,13 @@ In this particular project, we intend to extract the parts of words or phrases t
 
 ```
 
-Acknowledgements/References:
+### Inferences 
+1. People tend to explain their reasoning behind a Neutral review.
+2. Quite a few stopwords and punctuations removed. This resulted in increased Jaccard Score, measuring the capability of oure power of predicting correct texts.
+3. No major missings rows or data transformation required apart form extracting entities logically given that sentences are in sequence.
+
+For more refer notebook: https://github.com/mishra-atul5001/udacity-DS-nano-degree/blob/main/Capstone%20Project/src/Tweet%20Sentiments%20Extraction.ipynb
+### Acknowledgements/References:
 - My github repository for `Tweet Clustering`, which motivated me to build smarter solution: https://github.com/mishra-atul5001/Data-Science-and-ML-insights-Projects/blob/master/Tweet%20Clustering.ipynb
 - Spacy NER breakdown sample: https://www.kaggle.com/code/rohitsingh9990/ner-training-using-spacy-ensemble/notebook
 - Large thanks to: https://www.kaggle.com/code/rohitsingh9990/ner-inference-using-spacy-lb-0-628?scriptVersionId=32085239 for providing implementation aspect

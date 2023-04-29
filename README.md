@@ -1,5 +1,4 @@
-# udacity-DS-nano-degree
-Udacity Nano Degree Resources
+# Udacity Nano Degree Resources
 
 # Project 1: Writing a Data Scientist Blog Post
 ### Project Notebook/Blog Link:

@@ -30,6 +30,7 @@
 # Project 4: Tweet Sentiment Extraction 🐥
 ### Project Notebook/Blog Link:
   - Repo link: https://github.com/mishra-atul5001/udacity-DS-nano-degree/tree/main/Capstone%20Project
+  - Blog Link: https://medium.com/@mishra5001/twitter-sentiment-extraction-spacy-ner-3ddd323c6b2e
 
 ### Motivation of the Project:
   - Finding words or phrases influencing SENTIMENTs. Textual data with NER entities and Spacy modelling 

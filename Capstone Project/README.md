@@ -5,7 +5,7 @@
 Everyone talks about Elon Musk and his `Twitter` Saga. And voila, we landed at how sentiments are influenced, by words - right, well if we have those words annoatated, can we build a solution to classify a tweet as `Positive/Neutral/Negative`?
 We are into the era of **`Generative AI`** where NLP has seen some breakthrough techniques like **`Transformers, Bi-directional LSTM, LargeLM models`**.
 
-So,our problem statemt is: **`Tweet Sentiment Extraction`**
+So,our problem statemt is: **`Tweet Sentiment Extraction`**.  
 Blog Link: https://medium.com/@mishra5001/twitter-sentiment-extraction-spacy-ner-3ddd323c6b2e
 
 ### Project Overview
